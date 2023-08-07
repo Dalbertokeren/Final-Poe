@@ -1,0 +1,49 @@
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\bin\Debug\net6.0-windows\POE.exe
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\bin\Debug\net6.0-windows\POE.deps.json
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\bin\Debug\net6.0-windows\POE.runtimeconfig.json
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\bin\Debug\net6.0-windows\POE.dll
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\bin\Debug\net6.0-windows\POE.pdb
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.csproj.AssemblyReference.cache
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.AddRecipes.resources
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.DisplayForm.resources
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.Form1.resources
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.Properties.Resources.resources
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.StepsForm.resources
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.csproj.GenerateResource.cache
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.AssemblyInfoInputs.cache
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.AssemblyInfo.cs
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.csproj.CoreCompileInputs.cache
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.dll
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\refint\POE.dll
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.pdb
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.genruntimeconfig.cache
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\ref\POE.dll
+C:\Users\sadeeqwilliams\source\repos\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.Delegate_Calories.resources
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\bin\Debug\net6.0-windows\POE.exe
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\bin\Debug\net6.0-windows\DisplayForm.cs
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\bin\Debug\net6.0-windows\POE.deps.json
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\bin\Debug\net6.0-windows\POE.runtimeconfig.json
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\bin\Debug\net6.0-windows\POE.dll
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\bin\Debug\net6.0-windows\POE.pdb
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.AddRecipes.resources
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.DisplayForm.resources
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.Form1.resources
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.IngredientForm.resources
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.Properties.Resources.resources
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.StepsForm.resources
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.csproj.GenerateResource.cache
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.AssemblyInfo.cs
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.dll
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\refint\POE.dll
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.pdb
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.genruntimeconfig.cache
+\\Mac\Home\Documents\bb\SadeeqWilliams-ST10070002-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\ref\POE.dll
+C:\Users\Keren Dalberto\Downloads\Keren-Prog6211-POE\Keren-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.csproj.AssemblyReference.cache
+C:\Users\Keren Dalberto\Downloads\Keren-Prog6211-POE\Keren-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.dll
+C:\Users\Keren Dalberto\Downloads\Keren-Prog6211-POE\Keren-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\refint\POE.dll
+C:\Users\Keren Dalberto\Downloads\Keren-Prog6211-POE\Keren-Prog6211-POE\POE\POE\obj\Debug\net6.0-windows\POE.pdb
